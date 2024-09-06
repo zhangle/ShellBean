@@ -34,9 +34,9 @@ Supports macOS, iOS, iPadOS
 <h3 align="middle">As excited as we are?</h3>
 <h4 align="middle">Check out some of our features:</h4>
 
-![Welcome-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/welcome-screen.png "Welcome screen")
-![Workspace-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace-light.png "Workspace")
-![Dark-Theme-screen](https://github.com/TablePlus/TablePlus/blob/master/Resources/workspace-dark.png "Dark Them screen")
+![mac-screen](https://github.com/zhangle/ShellBean/blob/main/Resources/mac.png "mac screen")
+![iPad-screen](https://github.com/zhangle/ShellBean/blob/main/Resources/iPad.jpg "iPad screen")
+![iPhone-screen](https://github.com/zhangle/ShellBean/blob/main/Resources/iPhone.jpg "iPhone screen")
 
 <br>
 <br>
